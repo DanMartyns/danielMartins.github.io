@@ -30,7 +30,7 @@ force-https: True
 
 lang: "en"
 author: "Daniel Martins"
-title: "{ Daniel Martins }"
+title: " <Daniel Martins/>"
 description: "Blog and website of Daniel Martins, blogging mainly for tech. Opinions expressed are mine."
 keywords: "martins, daniel, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
@@ -55,8 +55,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "Reading changes your mind, applying changes your life! - Jay Shetty"
+  - text: "We may not be the best, but if we keep going longer we will better ourselves. - Jay Shetty"
 
 me-img: "/img/jetpacktocat.png"
 
